@@ -17,3 +17,5 @@ Página principal: Index.html
 Página de "Nosotros": nosotros.html
 Página de "Cursos": curso.html
 Página de "Contacto": contacto.html
+# Creditos
+Jose Maidana
